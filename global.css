@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-dm-serif-text: "DM Serif Text";
+  --font-inherit: inherit;
+  --font-inter: Inter;
+  --font-patua-one: "Patua One";
+  --font-abril-fatface: "Abril Fatface";
+  --font-staatliches: Staatliches;
+
+  /* font sizes */
+  --font-size-26xl: 45px;
+  --font-size-21xl: 40px;
+  --font-size-11xl: 30px;
+  --font-size-16xl: 35px;
+  --font-size-31xl: 50px;
+  --font-size-56xl: 75px;
+  --font-size-51xl: 70px;
+  --font-size-66xl: 85px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-firebrick: #c92020;
+  --color-black: #000;
+  --color-greenyellow: #93d900;
+
+  /* Paddings */
+  --padding-41xl: 60px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}

@@ -1,0 +1,417 @@
+.kinderchef-child,
+.kinderchef-item {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1512px;
+}
+.kinderchef-child {
+  top: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 134px;
+}
+.kinderchef-item {
+  top: 134px;
+  height: 233px;
+}
+.logo {
+  position: absolute;
+  top: 18.84px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.work1 {
+  top: 49px;
+  left: 1181px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 110px;
+  height: 35px;
+  cursor: pointer;
+}
+.about2,
+.icon3,
+.work1 {
+  position: absolute;
+}
+.about2 {
+  top: 49px;
+  left: 1361px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 111px;
+  height: 35px;
+  cursor: pointer;
+}
+.icon3 {
+  top: 20px;
+  left: 40px;
+  width: 81px;
+  height: 89px;
+  object-fit: cover;
+}
+.chef {
+  color: var(--color-greenyellow);
+}
+.a-tool-to,
+.kinderchef2 {
+  position: absolute;
+  display: inline-block;
+}
+.kinderchef2 {
+  height: 1.39%;
+  width: 27.05%;
+  top: 2.61%;
+  left: 36.44%;
+  font-size: var(--font-size-51xl);
+  font-family: var(--font-abril-fatface);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.a-tool-to {
+  top: 275px;
+  left: 190px;
+  font-size: var(--font-size-26xl);
+  width: 1132px;
+  height: 55px;
+}
+.kinderchef-inner {
+  position: absolute;
+  top: 367px;
+  left: 0;
+  width: 1512px;
+  height: 418px;
+  object-fit: cover;
+}
+.role1 {
+  position: absolute;
+  top: 824px;
+  left: 707px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+}
+.ux-designer-designing1 {
+  top: 893px;
+  left: 40px;
+  color: var(--color-black);
+  width: 1432px;
+}
+.audience1,
+.design-a-simple,
+.goal1,
+.ux-designer-designing1 {
+  position: absolute;
+  display: inline-block;
+}
+.goal1 {
+  top: 980px;
+  left: 652px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+  width: 208px;
+}
+.audience1,
+.design-a-simple {
+  top: 1049px;
+  left: 40px;
+  color: var(--color-black);
+  width: 1432px;
+}
+.audience1 {
+  top: 1136px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+}
+.parents-and-kids {
+  top: 1205px;
+  color: var(--color-black);
+}
+.challenges1,
+.conducting-interviews-paper1,
+.parents-and-kids,
+.research1 {
+  position: absolute;
+  left: 40px;
+  display: inline-block;
+  width: 1432px;
+}
+.challenges1 {
+  top: 2014px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+}
+.conducting-interviews-paper1,
+.research1 {
+  top: 2083px;
+  color: var(--color-black);
+}
+.research1 {
+  top: 2218px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+}
+.via-the-problem {
+  margin: 0;
+}
+.the-user-group-container {
+  top: 2287px;
+  color: var(--color-black);
+}
+.being-a-snack1,
+.initial-concepts1,
+.the-user-group-container,
+.user-testing1 {
+  position: absolute;
+  left: 40px;
+  display: inline-block;
+  width: 1432px;
+}
+.initial-concepts1 {
+  top: 2470px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+}
+.being-a-snack1,
+.user-testing1 {
+  top: 2539px;
+  color: var(--color-black);
+}
+.user-testing1 {
+  top: 3500px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+}
+.i-conducted-two1 {
+  top: 3569px;
+  color: var(--color-black);
+}
+.early-designs-were1,
+.final-stages1,
+.i-conducted-two1 {
+  position: absolute;
+  left: 40px;
+  display: inline-block;
+  width: 1432px;
+}
+.final-stages1 {
+  top: 3752px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+}
+.early-designs-were1 {
+  top: 3821px;
+  color: var(--color-black);
+}
+.initial-wireframes-of2 {
+  position: absolute;
+  top: 4436px;
+  left: 191px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 619px;
+  height: 67px;
+}
+.you-x-ventures-oalh2mojuuk-uns-icon1 {
+  position: absolute;
+  top: 1292px;
+  left: 0;
+  width: 1512px;
+  height: 683px;
+  object-fit: cover;
+}
+.all-rights-reserved1,
+.image-6-icon {
+  position: absolute;
+  left: 0;
+  width: 1512px;
+}
+.image-6-icon {
+  top: 2674px;
+  height: 787px;
+  object-fit: cover;
+}
+.all-rights-reserved1 {
+  top: 5811px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  display: inline-block;
+}
+.android-large-1-1,
+.android-large-2-1 {
+  position: absolute;
+  top: 3977px;
+  left: 133px;
+  width: 256px;
+  height: 575px;
+  object-fit: cover;
+}
+.android-large-2-1 {
+  left: 407px;
+  width: 257px;
+  height: 808px;
+}
+.android-large-3-1,
+.android-large-4-1,
+.android-large-6-1 {
+  position: absolute;
+  top: 3977px;
+  left: 682px;
+  width: 148px;
+  height: 1246px;
+  object-fit: cover;
+}
+.android-large-4-1,
+.android-large-6-1 {
+  left: 848px;
+  width: 256px;
+  height: 577px;
+}
+.android-large-6-1 {
+  left: 1122px;
+  width: 257px;
+  height: 575px;
+}
+.final-mockups-of1 {
+  position: absolute;
+  top: 4631px;
+  left: 883px;
+  color: var(--color-black);
+}
+.kinderchef-child1 {
+  position: absolute;
+  top: 5928px;
+  left: 0;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1512px;
+  height: 385px;
+}
+.ul4 {
+  margin: 0;
+  padding-left: var(--padding-41xl);
+}
+.text4,
+.text5 {
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 68px;
+}
+.text4 {
+  position: absolute;
+  top: 6003px;
+  left: 538px;
+}
+.text5 {
+  left: 313px;
+}
+.all1,
+.text5,
+.text6 {
+  position: absolute;
+  top: 6003px;
+}
+.text6 {
+  left: 771px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 68px;
+}
+.all1 {
+  left: 258px;
+  font-size: var(--font-size-26xl);
+  cursor: pointer;
+}
+.cinebar3 {
+  left: 381px;
+  cursor: pointer;
+}
+.cinebar3,
+.kickbox1,
+.kinderchef3 {
+  position: absolute;
+  top: 6003px;
+  font-size: var(--font-size-26xl);
+}
+.kickbox1 {
+  left: 606px;
+  cursor: pointer;
+}
+.kinderchef3 {
+  left: 839px;
+  color: var(--color-firebrick);
+}
+.icon4 {
+  position: absolute;
+  top: 6141px;
+  left: 717px;
+  width: 77px;
+  height: 85px;
+  object-fit: cover;
+}
+.conclusion1,
+.initial-wireframes-of3 {
+  position: absolute;
+  top: 3181px;
+  left: 810px;
+  font-size: var(--font-size-21xl);
+}
+.conclusion1 {
+  top: 5302px;
+  left: 40px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+  display: inline-block;
+  width: 1432px;
+}
+.our-target-users {
+  top: 5371px;
+  color: var(--color-black);
+}
+.learnings1,
+.our-target-users,
+.while-designing-the1 {
+  position: absolute;
+  left: 40px;
+  display: inline-block;
+  width: 1432px;
+}
+.learnings1 {
+  top: 5506px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-firebrick);
+}
+.while-designing-the1 {
+  top: 5575px;
+  color: var(--color-black);
+}
+.about3,
+.text7 {
+  position: absolute;
+  top: 6003px;
+}
+.text7 {
+  left: 1065px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 68px;
+}
+.about3 {
+  left: 1133px;
+  font-size: var(--font-size-26xl);
+  cursor: pointer;
+}
+.kinderchef1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6313px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-dm-serif-text);
+}

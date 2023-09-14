@@ -1,0 +1,392 @@
+.cinebar-child,
+.cinebar-item {
+  position: absolute;
+  left: 0;
+  width: 1512px;
+}
+.cinebar-child {
+  top: 0;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 134px;
+}
+.cinebar-item {
+  top: 134px;
+  background-color: red;
+  height: 233px;
+}
+.about,
+.work {
+  position: absolute;
+  top: 49px;
+  left: 1181px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 110px;
+  height: 35px;
+  cursor: pointer;
+}
+.about {
+  left: 1361px;
+  width: 111px;
+}
+.icon,
+.icon1 {
+  position: absolute;
+  top: 19px;
+  left: 40px;
+  width: 81px;
+  height: 89px;
+  object-fit: cover;
+}
+.icon1 {
+  top: 0;
+  left: 0;
+  width: 105.92px;
+  height: 90.81px;
+}
+.bar {
+  color: var(--color-white);
+}
+.span {
+  font-family: var(--font-inter);
+}
+.cinebar-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.cinebar1 {
+  position: absolute;
+  top: 18.84px;
+  left: 69.87px;
+  display: flex;
+  align-items: center;
+  width: 260px;
+  height: 71.87px;
+}
+.logo {
+  position: absolute;
+  top: 18.84px;
+  width: 260px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.parent {
+  position: absolute;
+  top: 158.84px;
+  left: 589.02px;
+  width: 329.87px;
+  height: 90.81px;
+  font-size: var(--font-size-56xl);
+  color: var(--color-black);
+  font-family: var(--font-patua-one);
+}
+.a-snack-ordering {
+  position: absolute;
+  top: 275px;
+  left: 190px;
+  font-size: var(--font-size-26xl);
+  display: inline-block;
+  width: 1132px;
+  height: 55px;
+}
+.cinebar-inner {
+  position: absolute;
+  top: 367px;
+  left: 0;
+  width: 1512px;
+  height: 418px;
+  object-fit: cover;
+}
+.role {
+  position: absolute;
+  top: 824px;
+  left: 707px;
+  color: var(--color-firebrick);
+}
+.goal,
+.ux-designer-designing {
+  position: absolute;
+  display: inline-block;
+}
+.ux-designer-designing {
+  top: 893px;
+  left: 40px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  width: 1432px;
+}
+.goal {
+  top: 980px;
+  left: 652px;
+  color: var(--color-firebrick);
+  width: 208px;
+}
+.audience,
+.designing-a-seamless,
+.regular-or-occasional {
+  position: absolute;
+  left: 40px;
+  display: inline-block;
+  width: 1432px;
+}
+.designing-a-seamless {
+  top: 1049px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.audience,
+.regular-or-occasional {
+  top: 1136px;
+  color: var(--color-firebrick);
+}
+.regular-or-occasional {
+  top: 1205px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.challenges,
+.conducting-interviews-paper {
+  position: absolute;
+  top: 2014px;
+  left: 40px;
+  color: var(--color-firebrick);
+  display: inline-block;
+  width: 1432px;
+}
+.conducting-interviews-paper {
+  top: 2083px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.research {
+  top: 2218px;
+  color: var(--color-firebrick);
+}
+.being-a-snack,
+.initial-concepts,
+.research,
+.the-user-group {
+  position: absolute;
+  left: 40px;
+  display: inline-block;
+  width: 1432px;
+}
+.the-user-group {
+  top: 2287px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.being-a-snack,
+.initial-concepts {
+  top: 2470px;
+  color: var(--color-firebrick);
+}
+.being-a-snack {
+  top: 2539px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.user-testing {
+  top: 3385px;
+  color: var(--color-firebrick);
+}
+.early-designs-were,
+.final-stages,
+.i-conducted-two,
+.user-testing {
+  position: absolute;
+  left: 40px;
+  display: inline-block;
+  width: 1432px;
+}
+.i-conducted-two {
+  top: 3454px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.early-designs-were,
+.final-stages {
+  top: 3637px;
+  color: var(--color-firebrick);
+}
+.early-designs-were {
+  top: 3706px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.conclusion,
+.learnings,
+.the-app-meets,
+.while-designing-the {
+  position: absolute;
+  top: 4532px;
+  left: 40px;
+  color: var(--color-firebrick);
+  display: inline-block;
+  width: 1432px;
+}
+.learnings,
+.the-app-meets,
+.while-designing-the {
+  top: 4688px;
+}
+.the-app-meets,
+.while-designing-the {
+  top: 4601px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.while-designing-the {
+  top: 4757px;
+  left: 41px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 2674px;
+  left: 0;
+  width: 1512px;
+  height: 672px;
+  object-fit: cover;
+}
+.initial-wireframes-of {
+  position: absolute;
+  top: 3841px;
+  left: 177px;
+  font-size: var(--font-size-21xl);
+}
+.image-2-icon,
+.you-x-ventures-oalh2mojuuk-uns-icon {
+  position: absolute;
+  top: 3841px;
+  left: 0;
+  width: 1512px;
+  height: 652px;
+  object-fit: cover;
+}
+.you-x-ventures-oalh2mojuuk-uns-icon {
+  top: 1292px;
+  height: 683px;
+}
+.all-rights-reserved {
+  position: absolute;
+  top: 4961px;
+  left: 1px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 1512px;
+}
+.final-mockups-of,
+.initial-wireframes-of1 {
+  position: absolute;
+  top: 4407px;
+  left: 152px;
+  font-size: var(--font-size-21xl);
+}
+.initial-wireframes-of1 {
+  top: 3241px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 5074px;
+  left: 0;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1513px;
+  height: 385px;
+}
+.ul {
+  margin: 0;
+  padding-left: var(--padding-41xl);
+}
+.text {
+  position: absolute;
+  left: 538px;
+}
+.text,
+.text1,
+.text2 {
+  top: 5146px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 68px;
+}
+.text1 {
+  position: absolute;
+  left: 1066px;
+}
+.text2 {
+  left: 313px;
+}
+.all,
+.text2,
+.text3 {
+  position: absolute;
+}
+.text3 {
+  top: 5146px;
+  left: 771px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 68px;
+}
+.all {
+  left: 258px;
+  cursor: pointer;
+}
+.all,
+.cinebar2,
+.kickbox,
+.kinderchef {
+  top: 5146px;
+  font-size: var(--font-size-26xl);
+}
+.cinebar2 {
+  position: absolute;
+  left: 381px;
+  color: var(--color-firebrick);
+}
+.kickbox,
+.kinderchef {
+  cursor: pointer;
+}
+.kickbox {
+  position: absolute;
+  left: 606px;
+}
+.kinderchef {
+  left: 839px;
+}
+.about1,
+.icon2,
+.kinderchef {
+  position: absolute;
+}
+.about1 {
+  top: 5146px;
+  left: 1134px;
+  font-size: var(--font-size-26xl);
+  cursor: pointer;
+}
+.icon2 {
+  top: 5294px;
+  left: 718px;
+  width: 77px;
+  height: 85px;
+  object-fit: cover;
+}
+.cinebar {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5459px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-dm-serif-text);
+}
