@@ -145,7 +145,7 @@
   top: 669px;
   left: 41px;
   width: 1431px;
-  overflow: hidden;
+  overflow: visible;
   font-size: var(--font-size-66xl);
   font-family: var(--font-staatliches);
 }
